@@ -28,7 +28,8 @@
 
 * HTML, CSS, JS
 * React 
-* Node.js 
+* Node.js
+* MERN stack Developer
 
 ### 🤖 AI/ML
 
@@ -40,17 +41,24 @@
 
 ## 📌 Projects
 
+🔹 **StayHouse — Full Stack Property Listing Platform**
+
+StayHouse is a full-stack web application that allows users to explore, create, and manage property listings — similar to platforms like Airbnb. It is designed with a strong focus on backend architecture, authentication, and real-world CRUD operations.
+Tech: Node.js, Express.js, MongoDB, EJS
+👉 https://github.com/AshmitAnand07/StayHouse
+
+Website link: https://stayhouse-1.onrender.com/listings
+
+🔹 **YouTube Thumbnail Generator**
+
+A production-ready, AI-powered system that generates highly engaging YouTube thumbnails by analyzing and cloning the visual style of your favorite YouTube channels.This project utilizes the Google Gemini Multimodal API for deep visual analysis and OpenAI's DALL·E 3 for high-fidelity image generation.
+👉 https://github.com/AshmitAnand07/Youtube-Thumbnail-Generator
+
 🔹 **NeuraMed – AI-Powered Healthcare Assistant**
 
 Developed an intelligent healthcare system that analyzes user symptoms and predicts possible diseases using machine learning algorithms. The system focuses on improving accessibility to early diagnosis and providing quick preliminary insights. Designed with a user-friendly interface and scalable backend for real-world usability.
 Tech: Python, Machine Learning, Data Processing
 👉 https://github.com/your-username/example-link
-
-🔹 **Wanderlust – Travel Listing & Booking Platform**
-
-Built a full-stack web application that allows users to explore, create, and manage travel listings with authentication and interactive features. Implemented dynamic routing, RESTful APIs, and database integration to handle user data and listings efficiently. Focused on clean UI/UX and real-world application structure similar to platforms like Airbnb.
-Tech: Node.js, Express.js, MongoDB, EJS
-👉 https://github.com/your-username/example-link2
 
 ---
 
