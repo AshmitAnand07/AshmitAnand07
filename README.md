@@ -58,7 +58,7 @@ A production-ready, AI-powered system that generates highly engaging YouTube thu
 
 Developed an intelligent healthcare system that analyzes user symptoms and predicts possible diseases using machine learning algorithms. The system focuses on improving accessibility to early diagnosis and providing quick preliminary insights. Designed with a user-friendly interface and scalable backend for real-world usability.
 Tech: Python, Machine Learning, Data Processing
-👉 https://github.com/your-username/example-link
+👉 https://github.com/AshmitAnand07/Neura-Med.git
 
 ---
 
